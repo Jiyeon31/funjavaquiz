@@ -3,15 +3,15 @@ A link to deployed application -> <a href>https:/Jiyeon31.github.io/funjavaquiz<
 
 ## Table of Contents
 [Purpose](#Purpose)
-[Built With](#Built With)
-[How to install](#How to install)
-[My Github](#My Github)
+[Built With](#BuiltWith)
+[How to install](#Howtoinstall)
+[My Github](#MyGithub)
 [Images](#Images)
-<a name="Purpose"/>
-<a name="BuiltWith"/>
-<a name="Howtoinstall"/>
-<a name="MyGithub"/>
-<a name="Images"/>
+<a name="Purpose"/></a>
+<a name="Built With"/></a>
+<a name="How to install"/></a>
+<a name="My Github"/></a>
+<a name="Images"/></a>
 
 ## Purpose
 * Timed quiz on JavaScript fundamentals that stores high scores for coding boot camp students
