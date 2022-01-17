@@ -3,14 +3,14 @@ A link to deployed application -> <a href>https:/Jiyeon31.github.io/funjavaquiz<
 
 ## Table of Contents
 [Purpose](#Purpose)
-[BuiltWith](#BuiltWith)
-[Howtoinstall](#Howtoinstall)
-[MyGithub](#MyGithub)
+[Built With](#BuiltWith)
+[How to install](#Howtoinstall)
+[My Github](#MyGithub)
 [Images](#Images)
 <a name="Purpose"/></a>
-<a name="Built With"/></a>
-<a name="How to install"/></a>
-<a name="My Github"/></a>
+<a name="BuiltWith"/></a>
+<a name="Howtoinstall"/></a>
+<a name="MyGithub"/></a>
 <a name="Images"/></a>
 
 ## Purpose
