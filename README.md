@@ -1,9 +1,9 @@
 # funjavaquiz
-A link to deployed application -> https:/Jiyeon31.github.io/funjavaquiz
+A link to deployed application -> <a href>https:/Jiyeon31.github.io/funjavaquiz</a>
 
 ## Table of Contents
-<a name="## Purpose"></a>
-<a name="## Built With"></a>
+<a name="#Purpose"></a>
+<a name="#Built With"></a>
 
 ## Purpose
 * Timed quiz on JavaScript fundamentals that stores high scores for coding boot camp students
@@ -21,7 +21,10 @@ Launch site in default browser
 https:/Jiyeon31.github.com/Jiyeon31
 
 ## Images
-![alt text](https:/github.com/Jiyeon31/funjavaquiz/main/title.jpg
+![alt text](https://github.com/Jiyeon31/funjavaquiz/blob/main/assets/images/Title.JPG)
+![alt text](https://github.com/Jiyeon31/funjavaquiz/blob/main/assets/images/Quiz.JPG)
+![alt text](https://github.com/Jiyeon31/funjavaquiz/blob/main/assets/images/Result.JPG)
+![alt text](https://github.com/Jiyeon31/funjavaquiz/blob/main/assets/images/Result2.JPG)
 
 ## Contribution
 Made with ❤️ by Jiyeon
