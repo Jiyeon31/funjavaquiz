@@ -1,5 +1,5 @@
 # funjavaquiz
-A link to deployed application -> <a href>https:/Jiyeon31.github.io/funjavaquiz</a>
+A link to deployed application -> <a href>https://Jiyeon31.github.io/funjavaquiz</a>
 
 ## Table of Contents
 [Purpose](#Purpose)
