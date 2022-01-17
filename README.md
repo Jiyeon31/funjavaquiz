@@ -25,7 +25,7 @@ Launch site in default browser
 
 <a name="MyGithub"/></a>
 ## My Github
-<a href>https:/Jiyeon31.github.com/Jiyeon31</a>
+<a href>https://Jiyeon31.github.com/Jiyeon31</a>
 
 <a name="Images"/></a>
 ## Images
