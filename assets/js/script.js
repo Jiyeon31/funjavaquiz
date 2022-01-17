@@ -1,4 +1,4 @@
-// DOM elements
+// variables
 var questionsEl = document.querySelector("#questions");
 var timerEl = document.querySelector("#time");
 var choicesEl = document.querySelector("#choices");
@@ -47,19 +47,19 @@ function getQuestion() {
 
 function questionClick() {
   if (this.value !== questions[currentQuestionIndex].answer) {
-    time -= 15;
+    time -= 10;
 
     if (time < 0) {
       time = 0;
     }
     timerEl.textContent = time;
     feedbackEl.textContent = "Wrong!";
-    feedbackEl.style.color = "red";
-    feedbackEl.style.fontSize = "400%";
+    feedbackEl.style.color = "pink";
+    feedbackEl.style.fontSize = "200%";
   } else {
     feedbackEl.textContent = "Correct!";
-    feedbackEl.style.color = "green";
-    feedbackEl.style.fontSize = "400%";
+    feedbackEl.style.color = "blue";
+    feedbackEl.style.fontSize = "200%";
   }
 
   feedbackEl.setAttribute("class", "feedback");
@@ -76,6 +76,7 @@ function questionClick() {
   }
 }
 
+//End quiz function
 function quizEnd() {
   clearInterval(timerId);
 
@@ -88,6 +89,7 @@ function quizEnd() {
   questionsEl.setAttribute("class", "hide");
 }
 
+//End quiz when time's up
 function clockTick() {
   time--;
   timerEl.textContent = time;
@@ -96,7 +98,7 @@ function clockTick() {
     quizEnd();
   }
 }
-
+//Save high scores in storage
 function saveHighscore() {
   var initials = initialsEl.value.trim();
 

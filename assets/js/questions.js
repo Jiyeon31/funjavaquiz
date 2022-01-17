@@ -1,86 +1,106 @@
 // list of all questions, choices, and answers
 var questions = [
-    {
-      title: "Which one is a looping structure in JavaScript?",
-      choices: ["All the below", "For", "While", "do-while loops"],
-      answer: "All the below"
-    },
-    {
-      title: "What are the two basic groups of data types in JavaScript?",
-      choices: [
-        "Primitive and attribute",
-        "Primitive and reference types",
-        "Reference types and attribute",
-        "None of the above"
-      ],
-      answer: "Primitive and reference types"
-    },
-    {
-      title: "Commonly used data types DO NOT include:",
-      choices: ["strings", "booleans", "alerts", "numbers"],
-      answer: "alerts"
-    },
-    {
-      title: "Boolean operators that can be used in JavaScript include:",
-      choices: [
-        "'And' Operator &&",
-        "'Or' Operator ||",
-        "'Not' Operator !",
-        "All the above"
-      ],
-      answer: "All the above"
-    },
-    {
-      title:
-        "Which one of these is not among the three different types of errors in JavaScript?",
-      choices: [
-        "Animation time errors",
-        "Load time errors",
-        "Run time errors",
-        "Logical Errors"
-      ],
-      answer: "Animation time errors"
-    },
-    {
-      title: "What is the data type of variables in JavaScript?",
-      choices: [
-        "Object data types",
-        "Function data type",
-        "None of the above",
-        "All of the above"
-      ],
-      answer: "Object data types"
-    },
-    {
-      title: "The condition in an if / else statement is enclosed within ____.",
-      choices: ["quotes", "curly brackets", "parentheses", "square brackets"],
-      answer: "parentheses"
-    },
-    {
-      title: "Arrays in JavaScript can be used to store ____.",
-      choices: [
-        "numbers and strings",
-        "other arrays",
-        "booleans",
-        "all of the above"
-      ],
-      answer: "all of the above"
-    },
-    {
-      title:
-        "String values must be enclosed within ____ when being assigned to variables.",
-      choices: ["commas", "curly brackets", "quotes", "parentheses"],
-      answer: "quotes"
-    },
-    {
-      title:
-        "A very useful tool used during development and debugging for printing content to the debugger is:",
-      choices: ["JavaScript", "terminal / bash", "for loops", "console.log"],
-      answer: "console.log"
-    },
-    {
-      title: "What is the type of Pop up boxes available in JavaScript?:",
-      choices: ["Alert", "Confirm", "Prompt", "All the above"],
-      answer: "All the above"
-    }
-  ];
+  {
+    title: "Which one has a valut of true or false?",
+    choices: ["booleans", "strings", "alerts", "numbers"],
+    answer: "booleans"
+  },
+  {
+    title: "Which is the one that Javascript can distinguish?",
+    choices: [
+      "numbers(0-9)",
+      "Boolean values(true or false)",
+      "strings(text)",
+      "all of the above"
+    ],
+    answer: "all the the above"
+  },
+  {
+    title: "Which one do you use for values in an array?",
+    choices: ["{}", "()", "[]", "<>"],
+    answer: "[]"
+  },
+  {
+    title: "What does charAt() method do?",
+    choices: [
+      "Changes string to lowercase characters",
+      "Changes string to uppercase characters",
+      "Takes an index number as a parameter, and returnes the character found at that position",
+      "Removes whitespace from start and end of string"
+    ],
+    answer: "Takes an index number as a parameter, and returnes the character found at that position"
+  },
+  {
+    title:
+      "What kind of data types does javascript have?",
+    choices: [
+      "Boolean",
+      "Number",
+      "String",
+      "All of above"
+    ],
+    answer: "All of above"
+  },
+  {
+    title: "What does '!==' mean?",
+    choices: [
+      "Is not equal to",
+      "Greater than or equal to",
+      "Strict not equal to",
+      "Strict equal to"
+    ],
+    answer: "Strict not equal to"
+  },
+  {
+    title: "What kind of logical operators does javascript have?",
+    choices: [
+        "Logical and &&",
+        "Logical or ||",
+        "Logical not !",
+        "All of above"
+    ],
+    answer: "All of above"
+  },
+  {
+    title: "Which method allows you to specify which element you want this node added to?",
+    choices: [
+      "createTextNode()",
+      "appendChild()",
+      "createElement()",
+      "None of above"
+    ],
+    answer: "appendChild()"
+  },
+  {
+    title:
+      "Why do we use jQuery?",
+    choices: [
+        "Cross-browser compatibility",
+        "Common tasks in less code",
+        "Simple selectors",
+        "All of above"
+    ],
+    answer: "All of above"
+  },
+  {
+    title:
+      "Where should you put your scripts in html?",
+    choices: [
+        "Before the closing </body> tag",
+        "In the page",
+        "In the head",
+        "None of above"
+    ],
+    answer: "Before the closing </body> tag"
+  },
+  {
+    title: "Which is right about jQueary?",
+    choices: [
+        "jQuery is a css file you include in your pages",
+        "jQuery doesn't make it easier to handle events",
+        "jQuery offers methods that make it quick and simple to achieve a range of tasks",
+        "None of above"
+    ],
+    answer: "jQuery offers methods that make it quick and simple to achieve a range of tasks"
+  }
+];
