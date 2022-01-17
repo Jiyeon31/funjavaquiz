@@ -11,9 +11,9 @@ var questions = [
       "numbers(0-9)",
       "Boolean values(true or false)",
       "strings(text)",
-      "all of the above"
+      "All of the above"
     ],
-    answer: "all the the above"
+    answer: "all of above"
   },
   {
     title: "Which one do you use for values in an array?",
